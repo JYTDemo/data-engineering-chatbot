@@ -1,0 +1,7 @@
+#insert python library 
+langchain
+autopep8
+langchain_experimental
+llama-cpp-python
+pandas
+streamlit
